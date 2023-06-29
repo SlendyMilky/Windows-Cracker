@@ -84,7 +84,7 @@ if %WinVer%==16 (echo Entrez votre cle d'activation sous le format XXXXX-XXXXX-X
 echo Crack en cours.... [1/3]
 cscript %SYSTEMROOT%\System32\slmgr.vbs /ipk %key% > nul
 echo Crack en cours.... [2/3]
-cscript %SYSTEMROOT%\System32\slmgr.vbs /skms kms.lotro.cc > nul
+cscript %SYSTEMROOT%\System32\slmgr.vbs /skms kms.slyinc.ch > nul
 echo Crack en cours.... [3/3]
 cscript %SYSTEMROOT%\System32\slmgr.vbs /ato > nul
 echo.
